@@ -1,4 +1,4 @@
-import bg from "./";
+import bg from "./bg.png";
 import chef from "./chef.png";
 import G from "./G.png";
 import gallery01 from "./gallery01.png";
